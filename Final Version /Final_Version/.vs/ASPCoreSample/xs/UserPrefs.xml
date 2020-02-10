@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{00ACB4D9-40D4-4F36-99D8-3301CE717266}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPCoreSample/Models/BrandModel.cs">
+    <Files>
+      <File FileName="ASPCoreSample/Models/AssetModel.cs" Line="26" Column="38" />
+      <File FileName="ASPCoreSample/Models/UserModel.cs" />
+      <File FileName="ASPCoreSample/Controllers/UserController.cs" />
+      <File FileName="ASPCoreSample/Repository/UserRepository.cs" />
+      <File FileName="ASPCoreSample/Views/User/Create.cshtml" />
+      <File FileName="ASPCoreSample/Repository/AssetRepository.cs" />
+      <File FileName="ASPCoreSample/Views/Brand/Index.cshtml" />
+      <File FileName="ASPCoreSample/Controllers/BrandController.cs" />
+      <File FileName="ASPCoreSample/Models/BrandModel.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASPCoreSample" expanded="True">
+            <Node name="ASPCoreSample" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Areas" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="BrandModel.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="The-Visual-Asset-Management-System" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Brand" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ASPCoreSample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
